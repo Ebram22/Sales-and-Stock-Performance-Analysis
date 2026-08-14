@@ -20,7 +20,7 @@ This dashboard provides immediate answers to critical business questions, enabli
 * *What are our absolute best (or worst) performing products based on dynamic ranking (Top/Bottom N)?*
 * *How is our sales volume distributed across different buying packages (Each, Carton, Packet) and product colors?*
 * *Which products have the highest variance in YoY performance, requiring immediate supply chain attention?*
-* 
+
 ## 🛠️ Key Features & Technical Highlights
 
 ### 1. Sales Performance (Executive View)
