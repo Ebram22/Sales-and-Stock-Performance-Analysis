@@ -57,7 +57,7 @@ This dashboard provides immediate answers to critical business questions, enabli
   * **Business Impact:** This proves that the company's regional expansion strategy and market penetration in secondary hubs successfully offset minor losses in mature markets, driving the overall revenue surge.
   ---
 ## 🧠 Technical Skills Applied
-* **Advanced DAX:** Calculation Groups, Field Parameters, Dynamic Ranking (`RANKX`, `TOPN`), and customized conditional formatting measures.
+* **Advanced DAX:** Time Intelligence functions(Dateadd), Calculation Groups, Field Parameters(Top, Bottom), Dynamic Ranking (`RANKX`), and customized conditional formatting measures, Text Functions.
 * **Data Modeling:** Robust relational model engineered using a **Star Schema** architectural pattern. This model handles multiple Fact tables (with different granularities, e.g., Sales vs Targets) and dimensions (`Customer`, `Date`, `StockItem`, `City`, `Employee`) to ensure optimal DAX performance and reporting flexibility.
 
 ![Project Data Model](images/Modeling.png)
