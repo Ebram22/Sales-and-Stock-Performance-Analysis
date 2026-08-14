@@ -50,7 +50,6 @@ This dashboard provides immediate answers to critical business questions, enabli
 *![Stock Analysis Dashboard](images/GIF/Stock_Analysis.gif)*
 ---
 ## 💡 Key Business Insights
-
 * **Regional Expansion & Growth Drivers:** 
   A deep-dive analysis into geographic performance reveals that the top revenue growth was not accidental. While the #1 leading city experienced a slight 10% dip in sales, **the remaining 9 top cities exhibited extraordinary YoY growth ranging between +
   15%(Knights Landing City) and +212% (Panaca City)**. 
