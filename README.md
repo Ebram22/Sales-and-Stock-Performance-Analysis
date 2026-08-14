@@ -11,7 +11,7 @@ This project is an end-to-end, highly interactive Business Intelligence dashboar
 * **Parameter Switching:** A built-in Button Slicer allows users to instantly toggle the entire page's context between Sales, Profits, and Orders.
 * **Context-Rich Tooltips:** Custom report page tooltips dynamically update based on the selected metric, showing Top 5 Cities, Top 5 Products, and YoY growth for any specific month hovered.
 
-*(Drag and drop your Sales_Analysis.png and Sales Trend ToolTip image here)*
+*![Sales Performance Dashboard](images/Sales_Analysis.png)*
 
 ---
 
