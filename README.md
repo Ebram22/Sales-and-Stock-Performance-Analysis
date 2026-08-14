@@ -36,8 +36,6 @@ This project is an end-to-end, highly interactive Business Intelligence dashboar
 * **Advanced DAX:** Calculation Groups, Field Parameters, Dynamic Ranking (`RANKX`, `TOPN`), and customized conditional formatting measures.
 * **Data Modeling:** Robust relational model engineered using a **Star Schema** architectural pattern. This model handles multiple Fact tables (with different granularities, e.g., Sales vs Targets) and dimensions (`Customer`, `Date`, `StockItem`, `City`, `Employee`) to ensure optimal DAX performance and reporting flexibility.
 
-![Project Data Model]([images/Modeling.png])
-* **UI/UX Design:** Implemented dynamic header text (e.g., `Filters Applied >> Year: 2015`) to maintain state awareness, clear navigation menus, and clean whitespace management for executive reporting.
+![Project Data Model](images/Modeling.png)
 
----
-💡 *Note: The full interactive `.pbix` file and the exported PDF summary are available in the repository files above.*
+* **UI/UX Design:** Implemented dynamic header text (e.g., `Filters Applied >> Year: 2015`) to maintain state awareness, clear navigation menus, and clean whitespace management for executive reporting.
