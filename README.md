@@ -11,7 +11,7 @@ This project is an end-to-end, highly interactive Business Intelligence dashboar
 * **Parameter Switching:** A built-in Button Slicer allows users to instantly toggle the entire page's context between Sales, Profits, and Orders.
 * **Context-Rich Tooltips:** Custom report page tooltips dynamically update based on the selected metric, showing Top 5 Cities, Top 5 Products, and YoY growth for any specific month hovered.
 
-*![Sales Performance Dashboard](images/Sales_Analysis.png)*
+*![Sales Performance Dashboard](images/GIF/Sales_Analysis.gif)*
 
 ---
 
@@ -21,8 +21,7 @@ This project is an end-to-end, highly interactive Business Intelligence dashboar
 * **Geospatial Insights:** Azure Maps integration highlights geographic sales density, cross-filtered with the Top 10 Selling Cities.
 * **Interactive Cross-Filtering:** Hovering over any customer or city instantly filters a custom tooltip revealing their specific Top 5 purchased products.
 
-*(Drag and drop your Customer_Analysis.png and Customers ToolTip image here)*
-
+*![Custoemr Analysis Dashboard](images/GIF/Customer_Analysis.gif)*
 ---
 
 ### 3. Stock Analysis (Self-Service Analytics)
@@ -30,8 +29,7 @@ This project is an end-to-end, highly interactive Business Intelligence dashboar
 * **Measure Swapping:** The dynamic ranking is fully integrated with a button slicer, meaning the Top/Bottom N logic seamlessly recalculates across Sales, Profits, or Orders.
 * **Inventory Distribution:** Clean visualizations tracking the percentage of sales by Buying Package and Most Ordered Colors to assist supply chain and inventory decisions.
 
-*(Drag and drop your Stock Analysis.png here)*
-
+*![Stock Analysis Dashboard](images/GIF/Stock_Analysis.gif)*
 ---
 
 ## 🧠 Technical Skills Applied
