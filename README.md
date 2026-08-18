@@ -1,5 +1,10 @@
 # 📊 Sales, Customer & Stock Performance Analytics
-
+![Project Status](https://img.shields.io/badge/Status-Completed-success)
+![Tool](https://img.shields.io/badge/Tool-Power_BI-2F4F4F)
+![Tool](https://img.shields.io/badge/Tool-Power_Query-2F4F4F)
+![Tool](https://shields.io/badge/Tool-Figma-2F4F4F)
+![Tool](https://img.shields.io/badge/Tool-DAX-005A9C)
+![Data Model](https://img.shields.io/badge/Data_Model-Star_Schema-blue)
 ## 🎯 Project Overview
 This project is an end-to-end, highly interactive Business Intelligence dashboard designed to provide a 360-degree view of corporate performance. It empowers stakeholders and decision-makers to track KPIs, analyze customer behavior, and monitor inventory movements through advanced DAX logic and dynamic filtering.
 
